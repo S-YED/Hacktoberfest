@@ -1,3 +1,8 @@
+
+/*
+* https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem
+*/
+
 import java.util.Scanner;
 
 public class Solution {
